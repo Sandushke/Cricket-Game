@@ -1,0 +1,29 @@
+
+1st Innings:- 
+Runs: 38, 	Wickets: 4, 	 Balls: 13
+2nd Innings:- 
+Runs: 42, 	Wickets: 2, 	 Balls: 15
+1st Innings:- 
+Runs: 40, 	Wickets: 1, 	 Balls: 13
+2nd Innings:- 
+Runs: 29, 	Wickets: 2, 	 Balls: 10
+1st Innings:- 
+Runs: 37, 	Wickets: 1, 	 Balls: 14
+2nd Innings:- 
+Runs: 40, 	Wickets: 3, 	 Balls: 14
+1st Innings:- 
+Runs: 32, 	Wickets: 1, 	 Balls: 10
+2nd Innings:- 
+Runs: 14, 	Wickets: 2, 	 Balls: 6
+1st Innings:- 
+Runs: 54, 	Wickets: 2, 	 Balls: 18
+2nd Innings:- 
+Runs: 55, 	Wickets: 4, 	 Balls: 22
+1st Innings:- 
+Runs: 24, 	Wickets: 4, 	 Balls: 12
+2nd Innings:- 
+Runs: 28, 	Wickets: 3, 	 Balls: 10
+1st Innings:- 
+Runs: 17, 	Wickets: 0, 	 Balls: 4
+2nd Innings:- 
+Runs: 9, 	Wickets: 1, 	 Balls: 3
