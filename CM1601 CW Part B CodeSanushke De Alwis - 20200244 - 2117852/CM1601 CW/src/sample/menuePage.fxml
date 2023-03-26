@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="706.0" prefWidth="730.0" BorderPane.alignment="CENTER" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <children>
+        <ImageView fitHeight="720.0" fitWidth="519.0" layoutX="112.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@cricketimage.jpg" />
+            </image>
+        </ImageView>
+      <Button fx:id="Nextbutton" layoutX="504.0" layoutY="664.0" mnemonicParsing="false" onAction="#page_2" prefHeight="31.0" prefWidth="98.0" text="NEXT">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <TextArea layoutX="115.0" layoutY="396.0" prefHeight="239.0" prefWidth="491.0" text="&#10; (&quot;-----------Welcome to World Cricket Championship 2022----------&quot;);&#10; (&quot;GAME RULES AND HOW IT IS PLAYED:-&quot;);&#10; (&quot;1. You can select a team from either Team A or Team B&quot;);&#10; (&quot;2. Then the computer will also select a random team from the team which you chose&quot;);&#10; (&quot;3. IF you win the toss you can choose either to bat or ball&quot;);&#10;  (&quot;4. IF you loose the toss you will have to ball first&quot;);&#10;  (&quot;5. You can edit and customise your time before the game but after the game start &quot;&#10;         you are not allowed to change the team profile&quot;);&#10;  (&quot;6. After evey over you can choose whether to resume or exit the game&quot;);&#10;  (&quot;7. After 20 overs or if a team gets 10 wickets the match will end&quot;);&#10;  (&quot;8. The computer will provide the final match summary in a text file&quot;);">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font></TextArea>
+      <Button fx:id="page2_goBackButton" layoutX="115.0" layoutY="664.0" mnemonicParsing="false" onAction="#page_2_back" prefHeight="31.0" prefWidth="98.0" text="BACK">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Button>
+    </children>
+</AnchorPane>

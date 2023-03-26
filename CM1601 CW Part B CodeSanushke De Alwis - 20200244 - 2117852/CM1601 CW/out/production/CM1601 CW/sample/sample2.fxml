@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="272.0" prefWidth="730.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <center>
+        <AnchorPane prefHeight="605.0" prefWidth="811.0" BorderPane.alignment="CENTER">
+            <children>
+                <ImageView fitHeight="517.0" fitWidth="882.0" layoutY="38.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@criceketPage2.jpg" />
+                    </image>
+                </ImageView>
+                <TextField blendMode="MULTIPLY" layoutX="394.0" layoutY="348.0" prefHeight="36.0" prefWidth="196.0" text="        Australia  VS  India">
+                    <font>
+                        <Font name="System Bold Italic" size="14.0" />
+                    </font></TextField>
+                <TextField blendMode="MULTIPLY" layoutX="393.0" layoutY="396.0" prefHeight="36.0" prefWidth="199.0" text="England     VS   South Africa">
+                    <font>
+                        <Font name="System Bold Italic" size="14.0" />
+                    </font></TextField>
+                <TextField blendMode="MULTIPLY" layoutX="394.0" layoutY="446.0" prefHeight="35.0" prefWidth="196.0" text="      England  VS  India">
+                    <font>
+                        <Font name="System Bold Italic" size="14.0" />
+                    </font></TextField>
+                <TextField blendMode="MULTIPLY" layoutX="395.0" layoutY="492.0" prefHeight="36.0" prefWidth="196.0" text=" Austrailia   VS  South Africa  ">
+                    <font>
+                        <Font name="System Bold Italic" size="14.0" />
+                    </font></TextField>
+            </children>
+        </AnchorPane>
+    </center>
+</BorderPane>
